@@ -1,0 +1,32 @@
+{
+  "name": "My-Public-Custom-Component",
+  "version": "0.0.1",
+  "main": [
+    "My-Public-Custom-Component.html"
+  ],
+  "ignore": [
+    ".*",
+    "npm-debug.log",
+    "gulpfile.js",
+    "sass",
+    "bower_components",
+    "node_modules",
+    "test",
+    "OSS_Notice.pdf",
+    "scripts",
+    ".github",
+    "tps-bar-chart.png",
+    "LICENSE.md",
+    "CONTRIBUTING.md",
+    "HISTORY.md",
+    "README.md",
+    ".jshintrc",
+    ".editorconfig",
+    "*.enc"
+  ],
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+    
+}
